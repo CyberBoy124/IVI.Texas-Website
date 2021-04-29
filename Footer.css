@@ -1,0 +1,31 @@
+footer{
+  background-color: #1492F0;
+  align-items: center;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width:100%;
+  padding: 10px 10px
+
+}
+
+.Social-Links{
+  text-align: center;
+  color: white;
+  text-decoration: none;
+  padding-bottom:10px;
+}
+
+.copyright{
+  margin: 0px 0px;
+  font-size: 12px;
+  color: white;
+  text-align: center;
+  padding-top:10px;
+  border-top-width: 1px;
+  border-top-style: solid;
+  border-top-color: white;
+}
+
+https://larsjung.de/pagemap/
+https://stackoverflow.com/questions/2736285/html-page-mini-map-or-map-overview
