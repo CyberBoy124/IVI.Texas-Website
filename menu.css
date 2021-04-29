@@ -28,7 +28,7 @@ header {
   width: 80px;
   cursor: pointer;
   background-color: white;
-  margin: 0px 0px;
+  margin: 0px 10px;
 }
 
 .nav-links{
@@ -60,6 +60,7 @@ button{
   transition: all 0.3 ease 0s;
   z-index: 1;
   outline: none;
+  margin: 0px 10px;
 }
 
 button:hover{
