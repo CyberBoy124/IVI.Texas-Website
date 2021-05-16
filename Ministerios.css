@@ -1,59 +1,15 @@
-body{
-  margin: 0;
+.block {
+  display: inline-block;
+  width: 200px;
+  height: 200px;
+  background-color: lightgray;
 }
-.ministerios-sign{
-  font-size: 50px;
+
+.container {
   text-align: center;
-  text-decoration: underline;
-  margin-top: 30px;
-
 }
 
-.ministerios {
-  align-items: center;
-  display: underline;
-  background-color: red;
-  margin-bottom: 100px;
-}
-
-
-.ministerios-cover-kids {
-  background-color: gray;
-  padding: 10px 10px;
-  width: 300px;
-  height: 240px;
-  text-align: center;
-  color: white;
-  cursor: pointer;
-  margin-left: 20px;
-  margin-top: 30px;
-}
-
-.ministerios-cover-alabanza {
-  background-color: gray;
-  padding: 10px 10px;
-  width: 300px;
-  height: 240px;
-  text-align: center;
-  color: white;
-  cursor: pointer;
-  margin-left: 20px;
-  margin-top: 30px;
-  position: 100px 100px;
-}
-
-.ministerios-cover-finanzas {
-  background-color: gray;
-  padding: 10px 10px;
-  width: 300px;
-  height: 240px;
-  text-align: center;
-  color: white;
-  cursor: pointer;
-  margin-left: 20px;
-  margin-top: 30px;
-}
-.ministerios-cover: hover{
-color: black;
-
+.block img {
+ width: 100px;
+ height: 100px;
 }
