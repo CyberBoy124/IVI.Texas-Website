@@ -1,0 +1,6 @@
+
+/* Style the active class (and buttons on mouse-over) */
+.active, .btn:hover {
+  background-color: #666;
+  color: white;
+}

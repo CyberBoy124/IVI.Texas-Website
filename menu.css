@@ -3,6 +3,7 @@ body{
   padding:0;
 }
 
+
 li, a, button{
 font-family: Arial;
 font-weight: 500;
@@ -59,6 +60,7 @@ nav-links li a:hover{
   color: blue;
 }
 
+
 .nav-links li a:hover{
   padding: 10px 15px;
   background-color: #1492F0;
@@ -89,4 +91,5 @@ button:hover{
   color: white;
   background-color: #005df2;
   outline: none;
+  z-index: 2;
 }
