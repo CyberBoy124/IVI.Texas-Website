@@ -1,6 +1,30 @@
+.navSection {
+         height: 45px;
+         width: 100%;
+         background-color: rgb(238, 238, 255);
 
-/* Style the active class (and buttons on mouse-over) */
-.active, .btn:hover {
-  background-color: #666;
-  color: white;
-}
+         display: flex;
+         justify-content: center;
+         align-items: center;
+
+     }
+
+     .navBar {
+         display: grid;
+         grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+         grid-template-rows: 40px;
+         justify-content: center;
+         align-items: center;
+         gap: 14px;
+         font-weight: 600;
+     }
+     .navElements{
+         display: flex;
+         justify-content: center;
+         align-items: center;
+     }
+     .donetbtn{
+        padding:7px 10px ;
+        border-radius: 50px;
+        background-color: blueviolet;
+     }
