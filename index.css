@@ -1,32 +1,6 @@
-footer {
-  display: block;
-background-color: gray;
-position: fixed;
-bottom:0;
-left:0;
-width: 100%;
-align-items: center;
-text-align: center;
-color: white;
-padding: 0px;
-margin: 0px;
-z-index: 1;
-margin-bottom: 30px;
-  }
-
-.copyright{
-  display: block;
-  height: 30px;
-  background-color: black;
-  position:relative;
-  bottom: 0;
-  left: 0;
-  width: 100%;
-  padding:0;
-  margin: 0;
-  z-index: 0;
-  padding-bottom: 0px;
-  padding-top: 0px;
+footer{
   text-align: center;
-  align-items: center;
+  padding: 1px;
+  background-color: #2535da;
+  color: white;
 }
