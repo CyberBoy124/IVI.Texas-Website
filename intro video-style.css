@@ -9,7 +9,7 @@
 
 
 
-#hero::after {
+#hero::after:hover {
       width:100%;
       height:100%;
       content: '';
@@ -31,7 +31,6 @@
       object-fit:cover;
       font-family:'object-fit: cover';
 }
-
 
 #hero .texture {
       width:100%;
