@@ -16,6 +16,8 @@ cursor: pointer;
 
 header {
   margin-top: 0px;
+  padding-top: 8px;
+  padding-bottom: 8px;
   display: flex;
   justify-content: center;
   align-items: center;
